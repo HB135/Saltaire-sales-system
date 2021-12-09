@@ -44,10 +44,10 @@ User profile page
 
 ## Co-developers
 
-Developed with [Harriet Brooke](https://github.com/HB135)
+Developed with [Nathan Hannah](https://github.com/nathanhannah122)
 
 ## NB
 
-Thanks for reading me! ~ nathanhannah122
+Thanks for reading me! ~ HB135
 
 
